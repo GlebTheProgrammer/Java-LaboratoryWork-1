@@ -1,4 +1,4 @@
-package util.oop;
+package by.bsuir.lr1.oop;
 
 import java.util.Comparator;
 

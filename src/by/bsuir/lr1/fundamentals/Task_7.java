@@ -1,4 +1,4 @@
-package util.fundamentals;
+package by.bsuir.lr1.fundamentals;
 
 import java.util.Scanner;
 

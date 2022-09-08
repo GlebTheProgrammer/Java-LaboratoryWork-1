@@ -1,4 +1,4 @@
-package util.oop;
+package by.bsuir.lr1.oop;
 
 public class Task_10
 {
@@ -6,6 +6,6 @@ public class Task_10
     {
         String commands = "cd src" +
                 "javac Task_9.java" +
-                "cd ../; cd ..; java util.oop.Task_9";
+                "cd ..; ...; cd ..; java by.bsuir.lr1.oop.Task_9 ";
     }
 }
