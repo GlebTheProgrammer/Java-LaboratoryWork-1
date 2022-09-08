@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package util.fundamentals;
+
 import java.util.Scanner;
 
 public class Task_4

@@ -1,3 +1,5 @@
+package util.fundamentals;
+
 import java.util.Scanner;
 
 public class Task_2
